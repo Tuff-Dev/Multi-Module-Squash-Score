@@ -49,12 +49,12 @@
         </dependency>
     </dependencies>
 
-<!--    <distributionManagement>-->
-<!--        <repository>-->
-<!--            <id>github</id>-->
-<!--            <name>GitHub OWNER Apache Maven Packages</name>-->
-<!--            <url>https://maven.pkg.github.com/Tuff-Dev/REPOSITORY</url>-->
-<!--        </repository>-->
-<!--    </distributionManagement>-->
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Tuff-Dev Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/Tuff-Dev/Multi-Module-Squash-Score</url>
+        </repository>
+    </distributionManagement>
 
 </project>
